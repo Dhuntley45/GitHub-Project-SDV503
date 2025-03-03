@@ -1,4 +1,4 @@
-# Project Title
+# Practising using GitHub
 
 ![Project Banner](path/to/banner-image.png)
 
