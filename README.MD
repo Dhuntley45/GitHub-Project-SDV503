@@ -2,7 +2,7 @@
 
 ![Project Banner](path/to/banner-image.png)
 
-A brief description of what this project is about learning Git and GitHub.
+This project is about learning Git and GitHub.
 
 ---
 
